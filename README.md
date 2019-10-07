@@ -35,3 +35,7 @@
 ## September 2019
 
 [Flutter for Designers]()(First Codelab Participation Ever)
+
+## October 2019
+
+[Flutter Meetup in Songdo]()

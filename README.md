@@ -43,3 +43,9 @@
 [Flutter Meetup in Songdo]()
 
 [GDG DevFest Seoul '19]()
+
+## November 2019
+
+[GDG DevFest Gwangju '19]()
+
+[GDG DevFest Daejeon '19]()

@@ -49,3 +49,7 @@
 [GDG DevFest Gwangju '19]()
 
 [GDG DevFest Daejeon '19]()
+
+## January 2020
+
+[Let'Swift 판교 2차]()
